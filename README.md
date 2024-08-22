@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryanwavare45
 - 👀 I’m interested in coding , making AI projects , building business , etc
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on with top tech companies.
+- 💞️ I’m looking to collaborate with top tech companies.
 - 📫 How to reach me : simply email/ dm me
   
    
